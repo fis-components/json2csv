@@ -1,0 +1,13 @@
+{
+    "name": "json2csv",
+    "description": "Convert JSON to CSV",
+    "repos": "https://github.com/zemirco/json2csv.git",
+    "main": "lib/json2csv.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "flat": "^1.6.0",
+        "lodash.get": "^3.7.0"
+    },
+    "version": "3.2.0"
+}
